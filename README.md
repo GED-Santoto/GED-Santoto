@@ -45,6 +45,7 @@ Está reconocido por **Minciencias en categoría B** y avalado por la Universida
 | Desde 2011 | Representa a Colombia en **RoboCup** con su equipo de fútbol robótico de la Small Size League |
 | 2015 | **Cuarto lugar mundial** en RoboCup Small Size League (Hefei, China) |
 | 2019 | **Cuarto lugar mundial** en RoboCup@Home, liga SSPL (Sídney, Australia), con la Alianza SINFONIA |
+| 2025 | Participación en **RoboCup@Home**, Open Platform League (Salvador, Brasil), con el equipo **Andesrobot**, junto a la Universidad Andrés Bello (Chile) |
 
 ## Proyectos
 
@@ -78,20 +79,6 @@ Está reconocido por **Minciencias en categoría B** y avalado por la Universida
         <img src="https://img.shields.io/badge/AWS_DeepRacer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS DeepRacer"/>
       </p>
       <a href="https://github.com/shdeza12/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments">Repositorio</a> · <a href="https://shdeza12.github.io/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments/">Sitio del proyecto</a> · <a href="https://youtu.be/X3BINGgNxiA">Video</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/edgarcamilocamacho/larc_2019">SIOC · LARC 2019</a></h3>
-      <b>Sistema Inteligente Organizador de Contenedores</b>
-      <p>Código del robot SIOC, con el que la Universidad Santo Tomás participó en la Latin American Robotics Competition 2019 en Rio Grande, Brasil. Incluye paquetes de ROS para control de movimiento, visión artificial y planeación con MoveIt.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Competencia-F39C12?style=flat-square" alt="Competencia"/>
-        <img src="https://img.shields.io/badge/ROS_Kinetic-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      </p>
-      <a href="https://github.com/edgarcamilocamacho/larc_2019">Repositorio</a>
     </td>
   </tr>
 </table>
