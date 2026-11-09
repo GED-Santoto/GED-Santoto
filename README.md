@@ -1,9 +1,12 @@
 <p align="center">
-  <img src="assets/card-ged.png" width="31%" alt="GED - Grupo de Estudio y Desarrollo"/>
-  &nbsp;
-  <img src="assets/card-ing-electronica.png" width="31%" alt="Facultad de Ingeniería Electrónica"/>
-  &nbsp;
-  <a href="https://www.usta.edu.co"><img src="assets/card-usta.png" width="31%" alt="Universidad Santo Tomás"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-ged-dark-transparente.png">
+    <img src="assets/logo-ged-transparente.png" height="150" alt="GED - Grupo de Estudio y Desarrollo"/>
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logo-ing-electronica-transparente.png" height="150" alt="Facultad de Ingeniería Electrónica"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.usta.edu.co"><img src="assets/logo-usta-transparente.png" height="150" alt="Universidad Santo Tomás"/></a>
 </p>
 
 <h1 align="center">GED · Grupo de Estudio y Desarrollo en Robótica</h1>
