@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-ged-dark-transparente.png">
-    <img src="assets/logo-ged-transparente.png" height="150" alt="GED - Grupo de Estudio y Desarrollo"/>
-  </picture>
+  <img src="assets/logo-ged-transparente.png" height="150" alt="GED - Grupo de Estudio y Desarrollo"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logo-ing-electronica-transparente.png" height="150" alt="Facultad de Ingeniería Electrónica"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
