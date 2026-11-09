@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/ged_santoto/"><img src="https://img.shields.io/badge/Instagram-ged__santoto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/channel/UCCXu-4qX-RRUKY7tV-5HRtw"><img src="https://img.shields.io/badge/YouTube-GED_Santoto-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:gedsantoto2026@gmail.com"><img src="https://img.shields.io/badge/Correo-gedsantoto2026@gmail.com-14385A?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 </p>
 
@@ -86,6 +87,7 @@ Está reconocido por **Minciencias en categoría B** y avalado por la Universida
 ## Contacto
 
 - **Instagram:** [@ged_santoto](https://www.instagram.com/ged_santoto/)
+- **YouTube:** [GED Santoto](https://www.youtube.com/channel/UCCXu-4qX-RRUKY7tV-5HRtw)
 - **Correo:** [gedsantoto2026@gmail.com](mailto:gedsantoto2026@gmail.com)
 
 ---
