@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/ged_santoto/"><img src="https://img.shields.io/badge/Instagram-ged__santoto-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/channel/UCCXu-4qX-RRUKY7tV-5HRtw"><img src="https://img.shields.io/badge/YouTube-GED_Santoto-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.youtube.com/@GED-Santoto"><img src="https://img.shields.io/badge/YouTube-GED_Santoto-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:gedsantoto2026@gmail.com"><img src="https://img.shields.io/badge/Correo-gedsantoto2026@gmail.com-14385A?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 </p>
 
@@ -64,7 +64,7 @@ Está reconocido por **Minciencias en categoría B** y avalado por la Universida
         <img src="https://img.shields.io/badge/MuJoCo-14385A?style=flat-square" alt="MuJoCo"/>
         <img src="https://img.shields.io/badge/LeRobot-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="LeRobot"/>
       </p>
-      <a href="https://github.com/V01D-Szp/Tesis_IL">Repositorio</a> · <a href="https://github.com/V01D-Szp/Tesis_IL/tree/main/docs">Documentación</a>
+      <a href="https://github.com/V01D-Szp/Tesis_IL">Repositorio</a> · <a href="https://github.com/V01D-Szp/Tesis_IL/tree/main/docs">Documentación</a><br/><sub>Autores: <a href="https://github.com/V01D-Szp">@V01D-Szp</a></sub>
     </td>
   </tr>
   <tr>
@@ -79,15 +79,79 @@ Está reconocido por **Minciencias en categoría B** y avalado por la Universida
         <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo"/>
         <img src="https://img.shields.io/badge/AWS_DeepRacer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS DeepRacer"/>
       </p>
-      <a href="https://github.com/shdeza12/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments">Repositorio</a> · <a href="https://shdeza12.github.io/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments/">Sitio del proyecto</a> · <a href="https://youtu.be/X3BINGgNxiA">Video</a>
+      <a href="https://github.com/shdeza12/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments">Repositorio</a> · <a href="https://shdeza12.github.io/Collaborative-Mobile-Robot-System-for-Indoor-Navigation-Assistance-in-Multi-Level-Environments/">Sitio del proyecto</a> · <a href="https://youtu.be/X3BINGgNxiA">Video</a><br/><sub>Autores: <a href="https://github.com/shdeza12">@shdeza12</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Melanie0410/Proyecto-Pregrado-Sistema-de-Navegacion-">Navegación asistida con Unitree G1 EDU</a></h3>
+      <b>Sistema de navegación asistida para orientación y accesibilidad en interiores universitarios</b>
+      <p>Arquitectura funcional de navegación asistida en interiores para el robot humanoide Unitree G1 EDU: localización, planificación, percepción de obstáculos, interacción y supervisión, evaluada en simulación con un modelo del edificio Calatayud.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Trabajo_de_grado-F39C12?style=flat-square" alt="Trabajo de grado"/>
+        <img src="https://img.shields.io/badge/Unitree_G1-14385A?style=flat-square" alt="Unitree G1"/>
+        <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
+        <img src="https://img.shields.io/badge/Gazebo_Fortress-F58113?style=flat-square" alt="Gazebo Fortress"/>
+      </p>
+      <a href="https://github.com/Melanie0410/Proyecto-Pregrado-Sistema-de-Navegacion-">Repositorio</a><br/><sub>Autores: <a href="https://github.com/Melanie0410">@Melanie0410</a> · <a href="https://github.com/kevin-2411">@kevin-2411</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/davidediaz/nova-spot-micro-tesis">Nova Spot Micro</a></h3>
+      <b>Locomoción de un robot cuadrúpedo con aprendizaje por refuerzo</b>
+      <p>Controlador de marchas en ROS 2 con políticas PPO residuales, una red neuronal que corrige una marcha base. Cinco marchas (gateo, paso, trote, carrera y galope) entrenadas en simulación y probadas en el robot físico suspendido.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Trabajo_de_grado-F39C12?style=flat-square" alt="Trabajo de grado"/>
+        <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2"/>
+        <img src="https://img.shields.io/badge/MuJoCo-14385A?style=flat-square" alt="MuJoCo"/>
+        <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
+      </p>
+      <a href="https://github.com/davidediaz/nova-spot-micro-tesis">Repositorio</a><br/><sub>Autores: <a href="https://github.com/davidediaz">@davidediaz</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Mocolax/martha_nav">Martha Nav</a></h3>
+      <b>Navegación autónoma con aprendizaje por refuerzo para el robot Martha</b>
+      <p>Un planificador global calcula la ruta sobre el mapa y una política PPO usa el LiDAR para decidir las velocidades y esquivar obstáculos. Incluye simulador 2D, integración con ROS 2 y Gazebo, políticas entrenadas y despliegue en el robot real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Trabajo_de_grado-F39C12?style=flat-square" alt="Trabajo de grado"/>
+        <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Humble"/>
+        <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square" alt="Gazebo"/>
+        <img src="https://img.shields.io/badge/PPO-14385A?style=flat-square" alt="PPO"/>
+        <img src="https://img.shields.io/badge/LiDAR-5C6670?style=flat-square" alt="LiDAR"/>
+      </p>
+      <a href="https://github.com/Mocolax/martha_nav">Repositorio</a> · <a href="https://github.com/Mocolax/martha_nav/blob/HEAD/docs/manual-usuario.md">Manual de usuario</a><br/><sub>Autores: <a href="https://github.com/Mocolax">@Mocolax</a></sub>
     </td>
   </tr>
 </table>
 
+## Videos
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/RYigfqRlKDU"><img src="https://img.youtube.com/vi/RYigfqRlKDU/hqdefault.jpg" width="100%" alt="Unitree G1 · Control de brazos por consola (prueba física)"/></a>
+      <br/><sub><b>Unitree G1 · Control de brazos por consola (prueba física)</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/GvAgVtLo2kQ"><img src="https://img.youtube.com/vi/GvAgVtLo2kQ/hqdefault.jpg" width="100%" alt="Unitree G1 + manos BrainCo Revo2 · Prueba general de manos y brazos"/></a>
+      <br/><sub><b>Unitree G1 + manos BrainCo Revo2 · Prueba general de manos y brazos</b></sub>
+    </td>
+  </tr>
+  <!-- EDITAR: para agregar un video, copia un bloque <td> y cambia el ID (lo que va después de youtu.be/) y el título -->
+</table>
+
+<p align="center"><a href="https://www.youtube.com/@GED-Santoto">Ver todos los videos en el canal</a></p>
+
 ## Contacto
 
 - **Instagram:** [@ged_santoto](https://www.instagram.com/ged_santoto/)
-- **YouTube:** [GED Santoto](https://www.youtube.com/channel/UCCXu-4qX-RRUKY7tV-5HRtw)
+- **YouTube:** [GED Santoto](https://www.youtube.com/@GED-Santoto)
 - **Correo:** [gedsantoto2026@gmail.com](mailto:gedsantoto2026@gmail.com)
 
 ---
